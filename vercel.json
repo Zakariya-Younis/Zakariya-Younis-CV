@@ -1,10 +1,6 @@
 {
-  "functions": {
-    "apps/enji.dev/src/pages/api/**/*.ts": {
-      "runtime": "nodejs22.x"
-    }
-  },
-  "buildCommand": "turbo run build --filter=enji.dev...",
-  "installCommand": "pnpm install",
-  "framework": "nextjs"
+  "buildCommand": "cd apps/enji.dev && npm run build",
+  "installCommand": "cd apps/enji.dev && npm install",
+  "framework": "nextjs",
+  "outputDirectory": "apps/enji.dev/.next"
 }
