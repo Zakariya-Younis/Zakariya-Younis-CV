@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/github/deployments/enjidev/enji.dev/production?label=production&style=flat-square"/>
     <img src="https://img.shields.io/github/commit-activity/m/enjidev/enji.dev?style=flat-square"/>
   </h1>
-  <p>Updated for Vercel deployment - workspace fix applied</p>
 </div>
 
 A monorepo for my personal website and projects, built with Turborepo and pnpm.

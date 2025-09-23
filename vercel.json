@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd apps/enji.dev && npm run build",
-  "installCommand": "cd apps/enji.dev && npm install",
-  "framework": "nextjs",
-  "outputDirectory": "apps/enji.dev/.next"
-}
