@@ -22,7 +22,7 @@ function FeaturedCardSection() {
             </div>
           }
           title="Experience"
-          desc="Training — MTCIT, Oman (Aug 2024). Awards: Python Bytes (3rd), Al‑Dhahirah Hackathon (Best Idea)."
+          desc="Freelance Developer — Zawyat Muscat. Training — MTCIT, Oman (Aug 2024). Awards: Python Bytes (3rd), Al‑Dhahirah Hackathon (Best Idea)."
         />
         <FeaturedCard
           icon={
