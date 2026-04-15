@@ -1,2 +1,2 @@
 LIVE ON 
-https://zakariya-younis-cv-enji-dev-mbgt.vercel.app/
+https://zakariya-younis-cv.vercel.app/
